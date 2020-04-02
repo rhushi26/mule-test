@@ -167,7 +167,7 @@
 								<environment>Sandbox</environment>
 								<businessGroup>MyBusinessGroup</businessGroup>
 								<region>${cloudhub.region}</region>
-								<uri>https://anypoint.mulesoft.com/</uri>
+								<uri>https://anypoint.mulesoft.com</uri>
 								<workerType>${cloudhub.workerType}</workerType>
 								<workers>${cloudhub.workers}</workers>
 							</cloudHubDeployment>
